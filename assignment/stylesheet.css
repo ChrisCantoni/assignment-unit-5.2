@@ -1,10 +1,10 @@
-header {
+.content-header {
     background-color: darkolivegreen;
     color:coral;
     text-align: center;
 }
 
-main {
+.content-main {
     background-color: lightgray;
     padding: 1em;
 }
